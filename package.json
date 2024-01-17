@@ -1,11 +1,12 @@
 {
-  "name": "vuepresser",
+  "name": "vuepress-bugrepo",
   "version": "1.0.0",
   "description": "",
   "type": "module",
   "scripts": {
     "docs:dev": "vuepress dev docs --clean-cache --clean-temp",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "info": "vuepress info"
   },
   "keywords": [],
   "author": "",
